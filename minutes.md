@@ -16,3 +16,19 @@ Topics:
   * The OpenSCAD software itself is here https://openscad.org  🧊
   * Lots of great stuff from him on Thingiverse, check out [his profile here](https://www.thingiverse.com/franpoli/designs) ♟
  
+ 
+ 
+ 
+ 
+
+# Previously, on Open Source Friday
+
+* @tplive contributed to https://github.com/bndw/wifi-card 
+* TietoEVRY Financial Service on Github: https://github.com/evryfs 
+* Fredrik contributed to https://github.com/odinho/nmu-netside 
+* We talked about https://github.com/NDLANO 
+* TietoEVRY DevOps Platform (hey, it's us! 😂) https://github.com/evry-ace/
+* Someone mentioned https://markojs.com/
+* @tplive advertised https://hacktoberfest.digitalocean.com/ 
+* @tplive worked on this issue, helping out testing patches https://github.com/hashicorp/terraform-provider-azurerm/issues/11059 
+* @tplive tried to solicit help with https://github.com/charleszipp/azure-pipelines-tasks-terraform/issues/35 (but eventually gave it up for a more advanced approach 😅)
