@@ -3,6 +3,12 @@
 We just started adding stuff to this site. Will try to look back in time and post some earlier stuff, but for now, latest meetings added to the top of the file. 
 If you feel anything is missing, please feel free to add it by PR or just make an issue in the tracker! 
 
+## 25. Nov 2021 Open Source Friday
+
+* A quick look at https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/norway.md
+* [@tplive](https://github.com/tplive) introduces this Github site. And why we may have to move to another GH org.
+* [@tplive](https://github.com/tplive) status on [Iskaribot](https://github.com/evry-ace/iskaribot/).
+
 
 
 ## 18. Nov 2021 Open Source Friday
