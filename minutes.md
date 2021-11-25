@@ -8,7 +8,8 @@ If you feel anything is missing, please feel free to add it by PR or just make a
 * A quick look at https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/norway.md
 * [@tplive](https://github.com/tplive) introduces this Github site. And why we may have to move to another GH org.
 * [@tplive](https://github.com/tplive) status on [Iskaribot](https://github.com/evry-ace/iskaribot/).
-
+* [@boyum](https://github.com/boyum) talks about plant sensors ft. Arduinos ([Workplace post](https://tietoevry.workplace.com/groups/633743477436593/permalink/1063852921092311/))
+* [@boyum](https://github.com/boyum) talks about different online dev environment, such as [StackBlitz](https://stackblitz.com/), [CodeSandbox](https://codesandbox.io/), [CodePen](http://codepen.io/) and [Glitch](https://glitch.com/)
 
 
 ## 18. Nov 2021 Open Source Friday
