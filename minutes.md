@@ -8,7 +8,8 @@ If you feel anything is missing, please feel free to add it by PR or just make a
 * https://www.krakend.io/
 * https://grpc.io/docs/what-is-grpc/introduction/
 * https://adventofcode.com/2021/day/2 🎄
-* https://kodekalender.novacare.no/luke2 - trying to hack today's assignment 😅
+* https://kodekalender.novacare.no/luke2 - We solved todays assignment! 🥳 ~~trying to hack today's assignment~~ 😅
+* https://www.youtube.com/watch?v=hhj5cuTFkbc Steganography analysis on paper! 🤩
 
 
 ## 25. Nov 2021 Open Source Friday
