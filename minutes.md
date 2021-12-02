@@ -3,6 +3,14 @@
 We just started adding stuff to this site. Will try to look back in time and post some earlier stuff, but for now, latest meetings added to the top of the file. 
 If you feel anything is missing, please feel free to add it by PR or just make an issue in the tracker! 
 
+## 2. Dec 2021 Open Source Friday
+* https://openapi-generator.tech/
+* https://www.krakend.io/
+* https://grpc.io/docs/what-is-grpc/introduction/
+* https://adventofcode.com/2021/day/2 🎄
+* https://kodekalender.novacare.no/luke2 - trying to hack today's assignment 😅
+
+
 ## 25. Nov 2021 Open Source Friday
 
 * A quick look at https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/norway.md
