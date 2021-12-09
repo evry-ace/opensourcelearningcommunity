@@ -3,6 +3,14 @@
 We just started adding stuff to this site. Will try to look back in time and post some earlier stuff, but for now, latest meetings added to the top of the file. 
 If you feel anything is missing, please feel free to add it by PR or just make an issue in the tracker! 
 
+## 9. Dec 2021 Open Source Friday
+* We revisited https://kodekalender.novacare.no/ and today we solved 3, 4, 5, 6, 7 and 8! 🥳 Tried for 9 as well, but no luck.. yet.. 😉
+* Talking about 3D-printing, actual usage! :D
+* Talking about how kids these days have no attention span! :D
+* https://tic80.com/ tiny computer
+* https://godotengine.org/ Godot Engine is a free and open source game engine!
+* https://www.gdquest.com/ Learn how to use Godot Engine for making games!
+
 ## 2. Dec 2021 Open Source Friday
 * https://openapi-generator.tech/
 * https://www.krakend.io/
