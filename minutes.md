@@ -3,6 +3,12 @@
 We just started adding stuff to this site. Will try to look back in time and post some earlier stuff, but for now, latest meetings added to the top of the file. 
 If you feel anything is missing, please feel free to add it by PR or just make an issue in the tracker! 
 
+## 16. Dec 2021 Open Source Friday
+* Othar proclaims his "love" for Java 😅
+* We look at a few more Novacare code calendar challenges. We solve todays challenge for 2 points. 🥳
+* Othar solves luke11! 🥳
+* Thomas fixes dependencies in Iskaribot and merges a pull request
+
 ## 9. Dec 2021 Open Source Friday
 * We revisited https://kodekalender.novacare.no/ and today we solved 3, 4, 5, 6, 7 and 8! 🥳 Tried for 9 as well, but no luck.. yet.. 😉
 * Talking about 3D-printing, actual usage! :D
