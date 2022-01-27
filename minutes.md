@@ -3,6 +3,15 @@
 We just started adding stuff to this site. Will try to look back in time and post some earlier stuff, but for now, latest meetings added to the top of the file. 
 If you feel anything is missing, please feel free to add it by PR or just make an issue in the tracker! 
 
+## 27. Jan 2022 Open Source Friday
+* First meeting in the new year! 🥳
+* The inventor of Curl [made headlines](https://daniel.haxx.se/blog/2022/01/24/logj4-security-inquiry-response-required/) when a undisclosed company sent him an email demanding he fix the errors of log4j. Good times! 😂
+* We discussed various alternatives to Docker Desktop; running Rancher Desktop; running Podman; running microk8s; paying for Docker Desktop since they have done so much for the world; running just a vm with vagrant
+* We talked about k9s, Kubelens
+* Or if you're really feeling brave, [admin your k8s cluster in Minecraft 😍](https://github.com/erjadi/kubecraftadmin)
+* We also looked at how [the old ways of the Internet are coming back](https://cheapskatesguide.org/articles/old-internet-coming-back.html)
+* ..and that was a nice segway over to [Silverhawk BBS](http://www.silverhawk.no/)
+
 ## 16. Dec 2021 Open Source Friday
 * Othar proclaims his "love" for Java 😅
 * We look at a few more Novacare code calendar challenges. We solve todays challenge for 2 points. 🥳
