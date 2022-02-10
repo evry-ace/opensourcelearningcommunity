@@ -3,6 +3,14 @@
 We just started adding stuff to this site. Will try to look back in time and post some earlier stuff, but for now, latest meetings added to the top of the file. 
 If you feel anything is missing, please feel free to add it by PR or just make an issue in the tracker! 
 
+## 10. Feb 2022 Open Source Friday
+* This week we actually have a topic!
+* We visited [Futurice Spice Program](https://spiceprogram.org/) and learned about what Futureice have done with open source in their company.
+* Thomas won a Raspberry Pi in a quiz last friday! 🥳
+* We have OctoPrint (and OctoPi) for running 3D printers through your Raspberry Pi https://octoprint.org/
+* There is a website that tracks which web stores have Raspberry Pi in stock! https://rpilocator.com/ 
+*  
+
 ## 27. Jan 2022 Open Source Friday
 * First meeting in the new year! 🥳
 * The inventor of Curl [made headlines](https://daniel.haxx.se/blog/2022/01/24/logj4-security-inquiry-response-required/) when a undisclosed company sent him an email demanding he fix the errors of log4j. Good times! 😂
