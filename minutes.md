@@ -3,6 +3,16 @@
 We just started adding stuff to this site. Will try to look back in time and post some earlier stuff, but for now, latest meetings added to the top of the file. 
 If you feel anything is missing, please feel free to add it by PR or just make an issue in the tracker! 
 
+## 3. Mar 2022 Open Source Friday
+* Thomas talks about Comicbot (again)
+* Thomas talks about Iskaribot (again)
+* We look at a presentation for a client about open source usage
+* We look at Mikel's presentation for Learning Week
+* We also look at the TODO group, which Thomas is going to present during Learning Week.
+* Polito wants to contribute to [winget-cli](https://github.com/microsoft/winget-cli/)
+* We look at no-hello, don't ask to ask, just ask and the XY problem. Annoying! [Tre tips til deg som vil snakke til Kyrre](https://www.kode24.no/artikkel/tre-tips-til-deg-som-vil-snakke-til-kyrre-no-hello-dont-ask-to-ask-og-the-xy-problem/75495620)
+* Also cheering Katrine's exploits in Moomin-land! (Katrine lærte seg å kode under korona)[https://www.kode24.no/artikkel/katrine-laerte-seg-a-kode-under-korona-lagde-mummi-app-som-brukes-av-tusenvis/75452576]
+
 ## 17. Feb 2022 Open Source Friday
 Just Polito and Thomas chatting away today... 😄
 
