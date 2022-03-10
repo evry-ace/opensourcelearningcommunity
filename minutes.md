@@ -3,6 +3,10 @@
 We just started adding stuff to this site. Will try to look back in time and post some earlier stuff, but for now, latest meetings added to the top of the file. 
 If you feel anything is missing, please feel free to add it by PR or just make an issue in the tracker! 
 
+## 10. March 2022 Open Source Friday
+* Thomas and Polito discuss the dangers of being reliant on Public Cloud in today's geopolitical climate
+* Polito is thinking about contributing to Winget.
+
 ## 3. Mar 2022 Open Source Friday
 * Thomas talks about Comicbot (again)
 * Thomas talks about Iskaribot (again)
