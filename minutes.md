@@ -3,6 +3,13 @@
 We just started adding stuff to this site. Will try to look back in time and post some earlier stuff, but for now, latest meetings added to the top of the file. 
 If you feel anything is missing, please feel free to add it by PR or just make an issue in the tracker! 
 
+## 31. March 2022 Open Source Friday
+* Knut Ivar presents tfsec, a solution that scans Terraform code and discovers security vulnerabilities
+* We speak about Arctic Circle Data Center, and Thomas rants about how horrible their new HQ in Glomfjord is!
+* We talk about legacy systems
+* Othar rants about Java. Again. 😄
+* Spring has launched a "new feature" called [Spring4shell](https://bugalert.org/content/notices/2022-03-30-spring.html), an RCE vulnerability that dwarves even Log4j... We will be talking about this one for a while! 😏
+
 ## 17. March 2022 Open Source Friday
 * Othar talked about the dangers of abstracting technology to the point where it becomes too complex
 * Othar, Thomas, Polito and Ari-Pekka discusses the Docker Desktop licensing and the use of CLI vs Desktop
